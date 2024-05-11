@@ -1,0 +1,30 @@
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.exe
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.deps.json
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.runtimeconfig.json
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.dll
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.pdb
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.dll
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\refint\ArbolBinarioPalabras.dll
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.pdb
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ref\ArbolBinarioPalabras.dll
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.exe
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.deps.json
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.runtimeconfig.json
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.dll
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\bin\Debug\net6.0\ArbolBinarioPalabras.pdb
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.dll
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\refint\ArbolBinarioPalabras.dll
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.pdb
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ArbolBinarioPalabras.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Desktop\ArbolBinarioPalabras\ArbolBinarioPalabras\obj\Debug\net6.0\ref\ArbolBinarioPalabras.dll
